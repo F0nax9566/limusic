@@ -6,6 +6,7 @@
 @import "@fontsource-variable/montserrat";
 @import "@fontsource-variable/outfit";
 @import "@fontsource-variable/dm-sans";
+@import "@fontsource-variable/comfortaa";
 
 @custom-variant dark (&:is(.dark *));
 

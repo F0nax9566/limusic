@@ -58,6 +58,7 @@ export const FONTS: { label: string; value: string }[] = [
 	{ label: 'Montserrat', value: "'Montserrat Variable', sans-serif" },
 	{ label: 'Outfit', value: "'Outfit Variable', sans-serif" },
 	{ label: 'DM Sans', value: "'DM Sans Variable', sans-serif" },
+	{ label: 'Comfortaa', value: "'Comfortaa Variable', sans-serif" },
 	{ label: 'System', value: 'ui-sans-serif, system-ui, sans-serif' }
 ];
 
